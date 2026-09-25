@@ -39,6 +39,19 @@
         "CRM"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "CRM",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "VERSION2",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-09-25T12:00:39Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "CRM"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
