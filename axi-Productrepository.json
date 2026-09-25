@@ -65,6 +65,19 @@
         "CRM"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "erp2",
+      "ProductDescription": "",
+      "ProductVersion": "3",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-09-25T12:04:20Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "erp2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
