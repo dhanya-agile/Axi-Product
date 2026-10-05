@@ -78,6 +78,19 @@
         "erp2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "HMS",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "version1",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-10-05T08:14:33Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "HMS"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
