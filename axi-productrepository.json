@@ -1,5 +1,5 @@
 {
-  "ManagerType": "product",
+  "ManagerType": "Product",
   "Products": [
     {
       "ProductName": "ERP",
@@ -111,6 +111,19 @@
       "ProductVersion": "version1",
       "ProductAuthor": "UserAdmin",
       "ProductCreatedOn": "2026-10-06T07:37:38Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Demo"
+      ],
+      "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Demo",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "version2",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-10-06T07:39:22Z",
       "Icon": "shopping_cart",
       "ColorClass": "orange",
       "Tags": [
