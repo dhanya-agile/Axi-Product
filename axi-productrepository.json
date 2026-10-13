@@ -143,6 +143,20 @@
         "Demo"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Account Receivable",
+      "ProductDescription": "Account Receivable testing",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-13T11:07:21Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Receivable"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
