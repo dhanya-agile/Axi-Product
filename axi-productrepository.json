@@ -171,6 +171,20 @@
         "Payable"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Inventory Control",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-14T09:15:10Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Inventory",
+        "Control"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
