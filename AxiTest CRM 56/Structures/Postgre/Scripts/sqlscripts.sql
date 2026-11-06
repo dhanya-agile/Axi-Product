@@ -1,0 +1,3 @@
+<<
+INSERT INTO axpages (name,caption,props,blobno,img,visible,type,parent,ordno,levelno,updatedon,createdon,importedon,createdby,updatedby,importedby,readonly,updusername,category,pagetype,intview,webenable,shortcut,icon,websubtype,workflow,oldappurl) VALUES ('HP1778565934880','Axpert Inbox','htmlPages.aspx?load=1778565934880',1,NULL,'T','p',NULL,(SELECT COALESCE(MAX(ordno),0) + 1 FROM axpages),0,'12/05/2026 11:36:29 AM','12/05/2026 11:36:29 AM',NULL,'admin','admin',NULL,NULL,NULL,NULL,'web',NULL,NULL,NULL,NULL,'htmlpage',NULL,NULL)
+>>
