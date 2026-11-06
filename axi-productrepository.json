@@ -284,6 +284,20 @@
         "Product"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TEST-newGIT",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "VERSION1",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-11-06T09:45:01Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TEST",
+        "newGIT"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
