@@ -298,6 +298,21 @@
         "newGIT"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "AxiTest CRM 58",
+      "ProductDescription": "",
+      "ProductVersion": "2",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-06T09:57:36Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AxiTest",
+        "CRM",
+        "58"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
