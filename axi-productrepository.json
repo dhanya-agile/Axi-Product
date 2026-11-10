@@ -397,6 +397,20 @@
         "GITNewPrd01"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TEST-PrdNew",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "VERSION1",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-11-10T12:21:16Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TEST",
+        "PrdNew"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
